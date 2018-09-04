@@ -3,7 +3,7 @@ Olipa kerran etana, jolla oli monta hiirilasta elätettävänään. Joka päivä
 Eräänä päivänä, kun ruokakaapi oli taas tyhjä, hiiri keksi.
 – Nyt minä alan ommella vaatteita ja ryhdyn räätäliksi. Siitä minä saan sitten rahaa ja voin ostaa lapsilleni ruokaa yllin kyllin.
 
-Kaikki sujui ensin hienosti. Terveisiä mun koneelta. Hiiri ompeli lakkeja, sukkia ja säärystimiä hiirille ja muille metsän eläimille, ja vähitellen ruokakaappi alkoi kuin alkoikin täyttyä.
+Kaikki sujui ensin hienosti. Terveisiä mun koneelta ja GitHubista. Hiiri ompeli lakkeja, sukkia ja säärystimiä hiirille ja muille metsän eläimille, ja vähitellen ruokakaappi alkoi kuin alkoikin täyttyä.
 
 Eräänä päivänä ovelle saapui talon kissa. Hiirilapset säikähtivät ja menivät piiloon koloihinsa. Räätälihiiri tärisi pelosta, mutta sai kuitenkin kysyttyä:
 
